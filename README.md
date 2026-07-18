@@ -1,65 +1,85 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Gottam%20Srishanth&fontSize=42&fontColor=ffffff"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Gottam%20Srishanth&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Python%20Developer%20%7C%20Machine%20Learning%20Enthusiast&descAlignY=60&descSize=20"/>
 </p>
 
-<h1 align="center">Hi 👋 I'm Gottam Srishanth</h1>
-<h3 align="center">Data Analyst • Python Developer • Machine Learning Enthusiast</h3>
+<h1 align="center">
+Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Gottam Srishanth
+</h1>
+
+<h3 align="center">
+🚀 Data Analyst • Python Developer • Machine Learning Enthusiast
+</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=srishanth0803&label=Profile%20Views&color=0e75b6&style=flat"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Turning+Data+into+Insights;Python+%7C+SQL+%7C+Machine+Learning;Building+Real+World+Projects;Always+Learning"/>
+  <img src="https://komarev.com/ghpvc/?username=srishanth0803&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/srishanth0803?label=Followers&style=for-the-badge&color=0891b2"/>
+  <img src="https://img.shields.io/github/stars/srishanth0803?affiliations=OWNER&style=for-the-badge&color=f59e0b"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&center=true&vCenter=true&width=850&lines=Turning+Data+into+Insights;Python+%7C+SQL+%7C+Machine+Learning;Building+Real+World+AI+Projects;Data+Analytics+%7C+Visualization;Always+Learning+New+Technologies+🚀"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="420"/>
 </p>
 
 ---
 
 # 💫 About Me
 
-I'm passionate about Data Analytics, Machine Learning and Python development. I enjoy solving real-world business problems using data and continuously improving my analytical and programming skills.
+I'm passionate about **Data Analytics, Machine Learning, and Python Development**. I enjoy solving real-world business problems using data, building intelligent applications, and continuously improving my analytical and programming skills.
 
-- 🔭 Building AI & Data Analytics projects
-- 🌱 Learning Advanced Machine Learning
-- 📊 Love Data Visualization
-- 🎯 Goal: ML Engineer / Data Scientist
+- 🔭 Building AI & Data Analytics Projects
+- 🌱 Currently Learning Advanced Machine Learning & Feature Engineering
+- 📊 Passionate about Data Visualization
+- 💡 Love solving real-world problems with Data
+- 🎯 Goal: Become a Machine Learning Engineer / Data Scientist
 
 ---
 
 # 🏆 Achievements
 
 - ✅ Selected for **Flipkart GRiD Internship – Next Round**
-- ✅ Machine Learning Intern – **Cognifyz Technologies**
+- ✅ Completed **Machine Learning Internship at Cognifyz Technologies**
+- ✅ Built Multiple End-to-End Data Analytics & Machine Learning Projects
+- ✅ Active GitHub Contributor
 
 ---
 
-# 🛠️ Tech Stack
+# 🚀 Tech Stack
 
-### Languages
-![Python](https://skillicons.dev/icons?i=python,mysql)
+### 💻 Languages
 
-### Libraries
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn)
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql"/>
+</p>
 
-### Tools
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,jupyter)
+### 📚 Libraries & Frameworks
+
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,docker,linux"/>
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🛍️ NeuralRetail
-AI-powered Retail Analytics platform with preprocessing, EDA, feature engineering and ML pipeline.
-
-**Repository:** https://github.com/srishanth0803/NeuralRetail
-
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=srishanth0803&repo=NeuralRetail&theme=tokyonight)](https://github.com/srishanth0803/NeuralRetail)
-
----
-
-## 🎒 Lost & Found Management System
-
-A Django-based web application for reporting and finding lost items with image upload and location support.
+| Project | Description |
+|---------|-------------|
+| 🛒 **NeuralRetail** | AI-powered Retail Analytics & Forecasting Platform |
+| 📈 **Data Analytics Dashboard** | Interactive dashboards using Python & SQL |
+| 🤖 **Machine Learning Projects** | End-to-End ML models for real-world datasets |
+| 📊 **Data Visualization** | Business insights using Matplotlib & Pandas |
 
 ---
 
@@ -70,6 +90,7 @@ A Django-based web application for reporting and finding lost items with image u
 - Advanced SQL
 - Data Visualization
 - Data Structures & Algorithms
+- Deep Learning
 
 ---
 
@@ -85,33 +106,58 @@ A Django-based web application for reporting and finding lost items with image u
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=srishanth0803&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=srishanth0803&theme=tokyo-night&hide_border=true"/>
 </p>
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srishanth0803&theme=tokyonight"/>
 </p>
 
+---
 
 
+
+---
+
+# 💭 Developer Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
 
 # 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/srishanth0820"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+
+<a href="https://www.linkedin.com/in/srishanth0820">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:srishanthgottam335@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 # 🎯 2026 Goals
 
-- Build production-ready ML applications
-- Contribute to open source
-- Strengthen Data Analytics skills
-- Secure a top Machine Learning internship
+- 🚀 Build Production-Ready Machine Learning Applications
+- 🌍 Contribute to Open Source Projects
+- 📊 Master Data Analytics & Visualization
+- 🧠 Learn Deep Learning & MLOps
+- 💼 Secure a Top Machine Learning Internship
+- ⭐ Reach 500+ GitHub Contributions
 
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient"/>
+<i>"Without data, you're just another person with an opinion."</i>
+</p>
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=gradient"/>
 </p>
