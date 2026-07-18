@@ -128,7 +128,13 @@ College web application with image uploads and location tracking.
 After enabling the GitHub Action:
 
 ```markdown
-<img src="https://raw.githubusercontent.com/srishanth0803/srishanth0803/output/github-contribution-grid-snake.svg"/>
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/srishanth0803/srishanth0803/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
 ```
 
 ---
